@@ -28,3 +28,7 @@ You may ask for help and discuss various other issues on the [mailing list][] an
 [mailing list]: http://lists.sourceforge.net/lists/listinfo/python-markdown-discuss
 [bug tracker]: http://github.com/waylan/Python-Markdown/issues 
 
+Modified
+-------
+1. enable newline, space in blockprocessor
+2. disable escape in postprocessor
